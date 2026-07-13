@@ -6,4 +6,5 @@
   - hallo wereld
   - हैलो वर्ल्ड
   - Ciao mondo
-ADDING DIFFERENT EDIT TO MAIN BRANCH
+  - EDITING IN MAIN
+  - EDIT 7/13: FIXING CONFLICT TO TWO SEPARATE LINES
